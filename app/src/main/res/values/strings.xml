@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EspressoTesting</string>
+    <string name="error_valid_email">The email is not valid</string>
+    <string name="succ">The email valildated successfully</string>
+    <string name="shopping_cart_label">Shopping Cart</string>
+    <string name="error_msg">Please enter a quantity</string>
+    <string name="discount_label">Discount:3-5 pieces 10% ,above 5 pieces 15%</string>
+    />
+</resources>
